@@ -30,6 +30,7 @@ nav {
   padding: 10px;
   position: fixed;
   text-align: center;
+  top: 0;
 }
 .nav {
   display: flex;
